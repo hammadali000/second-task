@@ -1,0 +1,187 @@
+body{
+    margin: 100px;
+}
+.div-1{
+    display: flex;
+    justify-content: center;
+
+}
+.div-1-1{
+    text-align: center;
+}
+
+#logo{
+    margin-top: 70px;
+    width: 270px;
+    height: 120px;
+        margin-right: 30px;
+
+}
+h1{
+font-size: 20px;
+margin-top: -15px;
+
+}
+p{
+    font-size: 15px;
+    margin-top: -8px;
+
+
+}
+#play{
+    width: 150px;
+height: 50px;
+margin-right: 5px;
+margin-top: 100px;
+}
+#app{
+ width: 150px;
+height: 50px;   
+margin-top: 100px;
+
+}
+.div1-2{
+    
+align-items: center;
+
+}
+#top_screens{
+    margin-top: -15px;
+width: 500px;
+height: 500px;}  
+
+.div-2{
+    display: flex;
+justify-content: center;
+
+}
+.div2-1{
+
+margin-left: 80px;
+
+}
+#se{
+    width: 400px;
+    height: 400px;
+}
+.div2-2{
+    margin-top: 120px;
+    text-align: center;
+    margin-right: 250px;
+}
+
+#ch{
+    margin-left: 60px;
+    font-size: 30px;
+    letter-spacing: 4px;
+        margin-top: 5px;
+
+}
+.div2-3{ 
+        margin-left: 60px;
+
+
+        font-size: 26px;
+
+
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.div-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div3-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div3-1 h1{
+    letter-spacing: 2px;
+}
+.div3-1 p{
+    font-size: 20px;
+   
+}
+.div3-2 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 140px;
+
+}
+.div-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+#for{
+    width: 430px;
+    height: 410px;
+margin-bottom: -30px;
+}
+.div4-1 {
+margin-left: 100px;
+}
+.div4-2 {
+    margin-bottom: 120px;
+    margin-left: -100px;
+    text-align: center;
+        
+}
+#ve{
+    width: 590px;
+    height: 80px;
+
+}
+.div4-2 p{
+    margin-top: 10px;
+}
+
+.div-5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+.div5-1{
+    text-align: center;
+    justify-content: center;
+
+}
+.div5-1 p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 130%;
+    margin-top: 5%;
+}
+#play-1{
+width: 20%;
+height: 10%;
+margin-right: 1.5%;
+margin-top: 1%;
+}
+#app-1{
+   width: 20%;
+height: 10%; 
+margin-top: 1%;
+}
+
+#do{
+    font-size: 200%;
+}
+
+.div5-1 #pe{
+    width: 14%;
+    height: 14%;
+}
+
+#ic{
+    border-radius: 100%;
+
+}
+
+    
+
