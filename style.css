@@ -118,18 +118,25 @@ line-height: 1.7;
 .div3-1 h1{
     color: #222222;
     margin-top: 19px;
-    letter-spacing: 5px;
-    margin-left: 35px;
+    letter-spacing: 3px;
+font-size: 20px;
 }
-.div3-1 p{
-    font-size: 24px;
-    margin-top: 3px
-    ;
-        margin-left: 35px;
 
-   
+ .div3-2{ 
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    /* margin-bottom: 120px;
+    margin-left: -100px; */
+    text-align: center;
+
+
+   color: #999999 ;
+  
 }
-.div3-2 img{
+
+.div3-3 img{
     width: 400px;
     height: 400px;
     margin-left: 140px;
